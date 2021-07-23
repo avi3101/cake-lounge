@@ -1,0 +1,311 @@
+.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand
+{
+    font-size: 2rem;
+    color: black;
+}
+.navbar-brand:hover
+{
+    color: black;
+}
+.nav-link
+{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    text-transform: uppercase;
+}
+.nav-link:hover
+{
+    color: black;
+}
+.form-control
+{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    font-family: 'Dancing Script', cursive;
+    border: 2px solid rgb(181, 101, 29);
+}    
+.btn
+{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: rgb(181, 101, 29);
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}
+.main
+{
+    background: url(https://t4.ftcdn.net/jpg/03/08/40/43/360_F_308404381_LqyMIXDPOR6Ut1TqE2cJRQdxomGsQegc.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 100% 100%;
+}
+.main h1
+{
+   position: relative;
+   top: 60px;
+   left: 700px;
+   font-family: 'Dancing Script', cursive;
+   color: lightcoral;
+}
+.card-body img
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/*feature section */
+#features
+{ 
+   min-height: 200px;
+   position: relative; 
+   padding: 7% ;
+   text-align: center;
+   padding-bottom: 2%;
+  
+}
+
+}
+#features p
+{
+    padding: 2% 5%;
+}
+
+#features h3
+{
+    
+    font-size: 1.5rem;
+    
+}
+#feature .container-fluid .row .col{
+    display: flex;
+    gap: 1.5rem;
+}
+.feature-icons
+{
+    font-size: 2rem;
+   
+   color: #ef8172;
+}
+.feature-icons:hover
+{
+    color: #ff4c68;
+}
+
+
+
+
+.product1 h1
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: brown;
+    font-weight: 700;
+}
+.product1 h6
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: lightcoral;
+}
+.product2 h1
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: brown;
+    font-weight: 700;
+}
+.product2 h6
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: lightcoral;
+}
+.product3 h1
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: brown;
+    font-weight: 700;
+}
+.product3 h6
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: lightcoral;
+}
+.product4 h1
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: brown;
+    font-weight: 700;
+}
+.product4 h6
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: lightcoral;
+}
+.product5 h1
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: brown;
+    font-weight: 700;
+}
+.product5 h6
+{
+    top: 40px;
+    right: 700px;
+    font-family: 'Dancing Script', cursive; 
+    color: lightcoral;
+}
+
+.more
+{
+    display: none;
+}
+.btn5
+{
+    height: 60px;
+    width: 100px;
+    background: lightsalmon;
+    margin-right: -10px;
+    border: 2px solid brown;
+    font-weight: 100; 
+    font-family: 'Dancing Script', cursive; 
+}
+.para
+{
+   padding: 1%;
+}
+
+.para h4
+{
+    position: relative;
+    left: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: brown;
+    line-height: 1.5;
+}
+
+.para h6
+{
+    position: relative;
+    left: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: lightsalmon;
+    line-height: 1.5;
+    text-indent: 50px;
+
+}
+.tab
+{
+    text-align: center;
+}
+
+/* delivery section  */
+.main1 
+{
+    min-height: 400px;
+    background: url(I1.jpeg)no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    /* position: relative; */
+    background-size: 100% 100%;
+}
+
+/* contact section */
+
+.contact .container
+{
+    text-align: center;
+    padding: 2%;
+
+}
+.contact .row
+{
+    padding: 1%;
+}
+.contact .in .row
+{
+    padding: 2%;
+}
+.btn1
+{
+    margin-top: 2%;
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(202, 139, 149);
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+/* news section */
+.news
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+}
+.btn2
+{
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left: -10px;
+    border: 2px solid white;
+    font-weight: 600;
+}
+.news input
+{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.news::placeholder
+{
+    color:white;
+}
+.news .row 
+{
+    padding: 2%;
+}
+
+.fab
+{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
